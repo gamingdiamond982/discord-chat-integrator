@@ -1,0 +1,7 @@
+name: Discord Chat Integrator
+version: '${project.version}'
+main: dev.qwrky.minecraft.discordchatintegrator.DiscordChatIntegrator
+prefix: DiscordChatIntegrator
+load: STARTUP
+authors: [ Ash ]
+description: Integrates Minecraft Chat with Discord
